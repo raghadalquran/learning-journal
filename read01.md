@@ -7,10 +7,10 @@ I read about Markdown.
 ** this to make bold **
 * this to make italic *
 
-![GitHub Logo](/images/logo.png) 
-#### We use this to add image ####
+'![GitHub Logo](/images/logo.png)' 
+#### This Can Add An Image ####
 
-[GitHub](http://github.com)
-#### We use this to add link ####
+'[GitHub](http://github.com)'
+#### This Can Add A Link ####
 Also , I read about how to creat a tables and i use the  ~~Programming~~ , emoji :smile: and more.
 
