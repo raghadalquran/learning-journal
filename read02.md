@@ -1,5 +1,8 @@
 # Summary #
-### I read about terminal , Linux comman line ###
+### I read about terminal. ###
+- A command line, or terminal, is a text based interface to the system.
+- Linux is case sensitive.
+
 I learn how i use terminal , learn some commands such as ( cd , ls , mkdir , echo , touch )
 ##### cd #####
 to change the directory
@@ -17,3 +20,5 @@ to make a new file
 to print some thing to a file 
 ##### pwd ##### 
 print working directory
+#### when you want to write in the file do this echo "what you want to write" > filename. ####
+and i read more than this. 
