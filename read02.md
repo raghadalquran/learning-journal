@@ -1,5 +1,5 @@
 # Summary #
-### I read about terminal. ###
+### Just Summary About What I Read For This Section  ###
 - A command line, or terminal, is a text based interface to the system.
 - Linux is case sensitive.
 
@@ -21,4 +21,4 @@ to print some thing to a file
 ##### pwd ##### 
 print working directory
 #### when you want to write in the file do this echo "what you want to write" > filename. ####
-and i read more than this. 
+And i read more than this. 
