@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to *My First* GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/raghadalquran/learning-journal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Growth Mindset
+A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##### EXAMPLE #####
+When students believe they can get smarter, they understand that effort makes them stronger. Therefore they put in extra time and effort, and that leads to higher achievement.
 
-### Markdown
+### I'm always remind myself : ###
+1. I always do my best.
+2. I will get every thing i want,just i want to try.
+3. I enjoy challenge.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+![Mindset](https://ih1.redbubble.net/image.703752100.9302/fposter,small,wall_texture,product,750x1000.jpg)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raghadalquran/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you want to learn more about **growth mindset** see [Growth Mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means).
