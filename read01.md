@@ -6,10 +6,11 @@ I read about Markdown.
 ###### This is h6 tag
 ** this to make bold **
 * this to make italic *
+
 ![GitHub Logo](/images/logo.png) 
 #### We use this to add image ####
 
 [GitHub](http://github.com)
 #### We use this to add link ####
-Also , I read about how to creat a tables and i use the Strikethrough ~~Programming~~ , emojy :smile: , 
+Also , I read about how to creat a tables and i use the  ~~Programming~~ , emoji :smile: and more.
 
