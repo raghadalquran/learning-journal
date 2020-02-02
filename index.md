@@ -6,6 +6,8 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 #### EXAMPLE: ####
 When students believe they can get smarter, they understand that effort makes them stronger. Therefore they put in extra time and effort, and that leads to higher achievement.
 
+< “Open the window of your mind. Allow the fresh air, new lights and new truths to enter.”
+
 ### I'm always remind myself : ###
 1. I always do my best.
 2. I will get every thing i want,just i want to try.
