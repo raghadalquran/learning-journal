@@ -38,3 +38,7 @@ We do this commands :
 - git commit -m "your msg":This step has committed changes for the file or files (you can have one commit message for multiple files, if applicable) to the HEAD.
 - git push origin master :This command pushes changes from the local “master” branch to the remote repository named “origin”.
 - git remote -v :You can view all the remote URLs next to their corresponding short names.
+And i read about another commands :
+- git fetch
+- git checkout test
+- git branch -d test
