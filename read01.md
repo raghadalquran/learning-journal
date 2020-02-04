@@ -9,8 +9,8 @@ GitHub.com uses its own version of the Markdown syntax that provides an addition
 
 # This is h1 tag
 ###### This is h6 tag
-** this to make bold **
-* this to make italic *
+'**this to make bold**'
+'*this to make italic*'
 ###### Unordered list item
 * num1
 * num2
@@ -20,7 +20,8 @@ GitHub.com uses its own version of the Markdown syntax that provides an addition
 ###### Blockquotes
 > quote
 ###### Inline code
-`<addr>` element here instead.
+`<addr>`
+
 '![The name of your image](link of image address)'
 #### This Can Add An Image ####
 
