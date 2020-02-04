@@ -9,8 +9,8 @@ GitHub.com uses its own version of the Markdown syntax that provides an addition
 
 # This is h1 tag
 ###### This is h6 tag
-'**this to make bold**'
-'*this to make italic*'
+We use ** to bold
+We use * to italic
 ###### Unordered list item
 * num1
 * num2
