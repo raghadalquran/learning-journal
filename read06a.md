@@ -17,7 +17,7 @@ PROGRESSIVE ENHANCEMENT
 - JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script. 
 - You may see JavaScript in the HTML between opening <script> and closing </script> tags (but it is better to put scripts in their own files). 
 
- ###### COMMENTS ######
+###### COMMENTS ######
 - You should write comments to explain what your code does.
 - They help make your code easier to read and understand. 
 - This can help you and others who read your code.
