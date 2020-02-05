@@ -16,6 +16,7 @@ PROGRESSIVE ENHANCEMENT
 - These three layers form the basis of a popular approach to building web pages called progressive enhancement. 
 - JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script. 
 - You may see JavaScript in the HTML between opening <script> and closing </script> tags (but it is better to put scripts in their own files). 
+
  ###### COMMENTS ######
 - You should write comments to explain what your code does.
 - They help make your code easier to read and understand. 
