@@ -4,14 +4,14 @@
 - The color property allows you to specify the color of text inside an element.
 + You can specify any color in CSS in one of three ways:
 1. rgb values.
-These express colors in terms of how much red, green and blue are used to make it up.
-For example: rgb(100,100,90)
+- These express colors in terms of how much red, green and blue are used to make it up.
+- For example: rgb(100,100,90)
 2. hex Codes.
-These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign.
-For example: #ee3e80
+- These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign.
+- For example: #ee3e80
 3. Color names.
-There are 147 predefined color names that are recognized by browsers.
-For example: DarkCyan
+- There are 147 predefined color names that are recognized by browsers.
+- For example: DarkCyan
 ###### background-color ######
 - You can specify your choice of background color in the same three ways you can specify foreground colors:
 RGB values, hex codes, and color names 
