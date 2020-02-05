@@ -3,7 +3,7 @@
 -scripts are made up of instructions a computer can follow step by step.
 -To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. 
 
-##### Variables #####
+
 -The name must begin with a letter, dollar sign ($),or an underscore (_).
 -It must not start with a number. 
 The name can contain letters, numbers, dollar sign ($), or an underscore (_).
