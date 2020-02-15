@@ -60,7 +60,14 @@ page, we add code around the original text we want to display and the browser th
 - There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.)
 - Therefore, if you want these characters to appear on your page you need to use what are termed "escape" characters (also known as escape codes or entity references). For example, to write a left angled bracket, you can use either &lt; or &#60;. For an ampersand, you can use either &amp; or &#38;.
 
-
+## Chapter 17 ##
+##### HTML5 Layout#####
+- HTML5 introduces a new set of elements that allow you to divide up the parts of a page.The names of these elements indicate the kind of content you will find in them.They are still subject to change, but that has not stopped many web page authors using them already.
+(headers & footers, navigation, articles, asides, section, heading groups, figures, sectioning elements )
+- The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure.
+- The new elements provide clearer code (compared with using multiple <div> elements).
+- Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
+- To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, which is available free from Google.
 
 
 
