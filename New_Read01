@@ -42,6 +42,26 @@ page, we add code around the original text we want to display and the browser th
 - The id attribute is known as a global attribute because it can be used on any element.
 ##### Class Attribute #####
 - Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page. 
-##### Block E lements #####
+##### Block Elements #####
+- Some elements will always appear to start on a new line in the browser window. These are known as block level elements. 
+- Examples of block elements are <h1>, <p>, <ul>, and <li>.
+##### Inline Elements #####
+- Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
+- Examples of inline elements are <a>, <b>, <em>, and <img>.
+##### Grouping text & elements in a block #####
+- The <div> element allows you to group a set of elements together in one block-level box.
+- The <span> element acts like an inline equivalent of the <div> element. It is used to either:
+1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text.
+2. Contain a number of inline elements.
+- An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame.
+##### Information about your pages #####
+- The <meta> element lives inside the <head> element and contains information about that web page.
+##### Escape Characters #####
+- There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.)
+- Therefore, if you want these characters to appear on your page you need to use what are termed "escape" characters (also known as escape codes or entity references). For example, to write a left angled bracket, you can use either &lt; or &#60;. For an ampersand, you can use either &amp; or &#38;.
+
+
+
+
 
 
