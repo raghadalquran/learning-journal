@@ -29,4 +29,19 @@ page, we add code around the original text we want to display and the browser th
 - HTML 4 released 1997
 - XHTML 1.0 released 2000
 - HTML5 released 2000
+##### DOCTYPES #####
+- Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using (although browsers usually display the page even if it is not included). 
+##### Comments In HTML #####
+- If you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters:
+<!-- comment goes here -->
+- It is a good idea to add comments to your code because, no matter how familiar you are with the page at the time of writing it, when you come back to it later (or if someone else needs to look at the code), comments will make it much easier to understand.
+##### ID Attribute #####
+- Every HTML element can carry the id attribute. It is used to uniquely identify that element from other elements on the page.
+-  Its value should start with a letter or an underscore (not a number or any other character).
+- It is important that no two elements on the same page have the same value for their id attributes (otherwise the value is no longer unique).
+- The id attribute is known as a global attribute because it can be used on any element.
+##### Class Attribute #####
+- Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page. 
+##### Block E lements #####
+
 
